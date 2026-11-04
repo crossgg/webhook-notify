@@ -1,0 +1,6 @@
+notify-service
+notify-service.exe
+*.exe
+config.json
+.env
+notify.py

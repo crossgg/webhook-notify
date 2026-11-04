@@ -1,0 +1,111 @@
+{
+  "api_key": "",
+  "port": "5755",
+  "HITOKOTO": false,
+  "SKIP_PUSH_TITLE": "",
+  "CONSOLE": false,
+
+  "BARK_PUSH": "",
+  "BARK_ARCHIVE": "",
+  "BARK_GROUP": "",
+  "BARK_SOUND": "",
+  "BARK_ICON": "",
+  "BARK_LEVEL": "",
+  "BARK_URL": "",
+
+  "DD_BOT_TOKEN": "",
+  "DD_BOT_SECRET": "",
+
+  "FSKEY": "",
+  "FSSECRET": "",
+
+  "QYWX_KEY": "",
+  "QYWX_ORIGIN": "https://qyapi.weixin.qq.com",
+
+  "QYWX_AM": "",
+
+  "TG_BOT_TOKEN": "",
+  "TG_USER_ID": "",
+  "TG_API_HOST": "",
+  "TG_PROXY_HOST": "",
+  "TG_PROXY_PORT": "",
+  "TG_PROXY_AUTH": "",
+
+  "PUSH_PLUS_TOKEN": "",
+  "PUSH_PLUS_USER": "",
+  "PUSH_PLUS_TEMPLATE": "html",
+  "PUSH_PLUS_CHANNEL": "wechat",
+  "PUSH_PLUS_WEBHOOK": "",
+  "PUSH_PLUS_CALLBACKURL": "",
+  "PUSH_PLUS_TO": "",
+
+  "DEER_KEY": "",
+  "DEER_URL": "https://api2.pushdeer.com/message/push",
+
+  "PUSH_KEY": "",
+
+  "NTFY_URL": "https://ntfy.sh",
+  "NTFY_TOPIC": "",
+  "NTFY_PRIORITY": "3",
+  "NTFY_TOKEN": "",
+  "NTFY_USERNAME": "",
+  "NTFY_PASSWORD": "",
+  "NTFY_ACTIONS": "",
+
+  "WXPUSHER_APP_TOKEN": "",
+  "WXPUSHER_TOPIC_IDS": "",
+  "WXPUSHER_UIDS": "",
+  "WXPUSHER_SPT_LIST": "",
+
+  "WPUSH_APIKEY": "",
+  "WPUSH_CHANNEL": "wechat",
+  "WPUSH_TOPIC_CODE": "",
+
+  "SMTP_SERVER": "",
+  "SMTP_SSL": "false",
+  "SMTP_EMAIL": "",
+  "SMTP_EMAIL_TO": "",
+  "SMTP_PASSWORD": "",
+  "SMTP_NAME": "",
+
+  "GOBOT_URL": "",
+  "GOBOT_QQ": "",
+  "GOBOT_TOKEN": "",
+
+  "GOTIFY_URL": "",
+  "GOTIFY_TOKEN": "",
+  "GOTIFY_PRIORITY": 0,
+
+  "IGOT_PUSH_KEY": "",
+
+  "CHAT_URL": "",
+  "CHAT_TOKEN": "",
+
+  "WE_PLUS_BOT_TOKEN": "",
+  "WE_PLUS_BOT_RECEIVER": "",
+  "WE_PLUS_BOT_VERSION": "pro",
+
+  "QMSG_KEY": "",
+  "QMSG_TYPE": "",
+
+  "AIBOTK_KEY": "",
+  "AIBOTK_TYPE": "",
+  "AIBOTK_NAME": "",
+
+  "PUSHME_KEY": "",
+  "PUSHME_URL": "https://push.i-i.me/",
+
+  "CHRONOCAT_URL": "",
+  "CHRONOCAT_QQ": "",
+  "CHRONOCAT_TOKEN": "",
+
+  "OPENILINK_APP_TOKEN": "",
+  "OPENILINK_HUB_URL": "https://hub.openilink.com",
+  "OPENILINK_CONTEXT_TOKEN": "",
+
+  "WEBHOOK_URL": "",
+  "WEBHOOK_METHOD": "",
+  "WEBHOOK_CONTENT_TYPE": "",
+  "WEBHOOK_HEADERS": "",
+  "WEBHOOK_BODY": ""
+}
